@@ -1,12 +1,14 @@
-## Joe May
+# Joe May
 
-## LinkedIn:
+> "Nothing will work unless you do." --_Maya Angelou_
+
+### LinkedIn:
 
 [<img align="left" alt="Joe May | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYkQ84aYDqpNA-fIv74FP3Nb7d0tGDQxC9Q&usqp=CAU" />][linkedin]
 
-<br />
+<br>
 
-## Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
