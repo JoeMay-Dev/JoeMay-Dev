@@ -2,7 +2,7 @@
 
 ## LinkedIn:
 
-[<img align="left" alt="Joe May | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611195038~hmac=a7a52afa11b13e82581f0f18ac384ce5" />][linkedin]
+[<img align="left" alt="Joe May | LinkedIn" width="22px" src="https://e7.pngegg.com/pngimages/524/809/png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle.png" />][linkedin]
 
 <br />
 
